@@ -1,3 +1,6 @@
+## Video Demo showcasing the PoC
+[Watch the 2-minute PoC Walkthrough here](https://drive.google.com/file/d/1WtIKGQIpj3g1S5EEe8Pj-8myfXZvzRmZ/view?usp=drive_link)
+
 # GSoC Proof of Concepts
 
 1. Fork this repo & create a new branch.
