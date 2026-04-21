@@ -1,3 +1,7 @@
+## 📺 Proof of Concept Demo
+Click the link below to watch a 2-minute walkthrough of the framework, covering the real-time SSE streaming, multimodal rendering, and the testing suite.
+[**Watch the PoC Video on Google Drive**](https://drive.google.com/file/d/1WtIKGQIpj3g1S5EEe8Pj-8myfXZvzRmZ/view?usp=drive_link)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
